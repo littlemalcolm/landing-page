@@ -20,17 +20,23 @@
     margin-bottom: 100px;
 }
 
+.header h2 {
+    cursor: pointer;
+}
+
 .links {
     display: flex;
     justify-content: space-between;
     margin-right: 100px;
-    cursor: pointer;
 }
+
+
 .links p {
     margin-left: 50px;
     margin-top: 10px;
     color: #c8c4c4;
     font-size: 18px;
+    cursor: pointer;
 }
 
 .hero-section {
@@ -70,6 +76,7 @@
     font-size: 18px;
     font-weight: 500;
     color: #fff;
+    cursor: pointer;
 }
 
 .hero-section_two {
@@ -201,6 +208,7 @@
     background-color: #3882f6;
     border: 2px solid #fff;
     border-radius: 8px;
+    cursor: pointer;
 }
 
 .footer {
