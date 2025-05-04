@@ -39,6 +39,12 @@
     cursor: pointer;
 }
 
+.links p:hover {
+    background-color: #baa4a4;
+    color: #010408;
+
+}
+
 .hero-section {
     display: flex;
     flex-direction: row;
@@ -78,6 +84,13 @@
     color: #fff;
     cursor: pointer;
 }
+
+
+.hero-section-one_btn:hover {
+    background-color: whitesmoke;
+    color: #000;
+}
+
 
 .hero-section_two {
     display: flex;
@@ -209,6 +222,10 @@
     border: 2px solid #fff;
     border-radius: 8px;
     cursor: pointer;
+}
+
+.page3-cta-button button:hover {
+    background-color: #07275a;
 }
 
 .footer {
